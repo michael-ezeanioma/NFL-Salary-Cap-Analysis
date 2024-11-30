@@ -1,4 +1,4 @@
-# Project-1
+# Overview
 
 Findings
 - After going through the data we have been able to deduce that if football franchises want a successful team then they need to pay their quarterbacks 10 to 13 percent of the total salary cap. 
@@ -27,3 +27,6 @@ Does paying the quarterback 10% or more result in successful teams?
 - A heatmap was developed to enable visualization of teams that consistently make the playoffs layered with the percentage of the salary cap paid to the quarterback.
 - The heatmap revealed that sustained success is possible with a quarterback paid less than 10% of the salary cap when the quarterback is on a rookie contract and also revealed that when the second contract exceeds the 10% threshold the team will continue to have success.
 - Another insight from the heatmap verifies teams that exceed the 10% threshold continuously, had more success over the 10 year period studied.
+
+<!--Project 1-->
+
